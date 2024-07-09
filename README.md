@@ -12,3 +12,6 @@ But I wisxh someone was here to teach me this jeez Git/GitHub stuffs are super h
 
 
 This is #2 of commit hehe test 2
+
+
+Time to get used to it. This is #3
