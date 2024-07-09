@@ -26,3 +26,7 @@ add <filenme>
 pull
 commit
 (status again to check)
+
+
+#IDK5probably
+Testing with *push origin main* 
