@@ -30,3 +30,15 @@ commit
 
 #IDK5probably
 Testing with *push origin main* 
+
+
+NEW WORK FLOW 
+Dont forget to savve first before doing any of these
+
+
+add <filename>
+commit
+push origin main
+
+
+you dont need to pull 
