@@ -15,3 +15,14 @@ This is #2 of commit hehe test 2
 
 
 Time to get used to it. This is #3
+
+Note for myself:
+
+3-step process to linking(?) commit:
+**dont forget to save first before doing this**
+
+add <filenme>
+(status just to check)
+pull
+commit
+(status again to check)
