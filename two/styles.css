@@ -4,6 +4,25 @@
 body {
     color: aquamarine;
 }
-* {
-    color: #9600aa;
+.div {
+    font-family: 'Courier New', Courier, monospace;
+}
+#Id {
+    background-color: blue;
+}
+.paradoot {
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.Himmel {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: #fbff03;
+}
+.Rott {
+    background-color: #df4949d8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
 }
